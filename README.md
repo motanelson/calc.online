@@ -1,2 +1,1 @@
-# Rust.hello.world
-Hello world on rust video
+python 2d array
