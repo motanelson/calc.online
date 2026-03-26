@@ -1,2 +1,2 @@
-python 2d array
+calc cientific onlid id recorder register to cientific value
 
